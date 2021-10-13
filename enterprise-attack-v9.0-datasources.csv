@@ -1,0 +1,100 @@
+data_source_type,data_source
+Active Directory,Active Directory Object Modification
+Volume,Volume Creation
+Pod,Pod Enumeration
+Application Log,Application Log Content
+Cloud Service,Cloud Service Modification
+Firewall,Firewall Metadata
+File,File Modification
+File,File Deletion
+Cloud Storage,Cloud Storage Deletion
+Network Traffic,Network Traffic Content
+Windows Registry,Windows Registry Key Deletion
+Process,Process Termination
+User Account,User Account Modification
+Scheduled Job,Scheduled Job Creation
+Instance,Instance Enumeration
+Snapshot,Snapshot Enumeration
+Windows Registry,Windows Registry Key Access
+Logon Session,Logon Session Metadata
+Instance,Instance Start
+Container,Container Enumeration
+Active Directory,Active Directory Object Deletion
+Scheduled Job,Scheduled Job Metadata
+Instance,Instance Deletion
+Process,OS API Execution
+Kernel,Kernel Module Load
+Drive,Drive Creation
+Pod,Pod Modification
+Cloud Service,Cloud Service Disable
+Firewall,Firewall Rule Modification
+Volume,Volume Metadata
+Snapshot,Snapshot Deletion
+Process,Process Creation
+User Account,User Account Creation
+Driver,Driver Metadata
+Scheduled Job,Scheduled Job Modification
+Cloud Storage,Cloud Storage Enumeration
+Sensor Health,Host Status
+Module,Module Load
+Cloud Storage,Cloud Storage Metadata
+Pod,Pod Creation
+Driver,Driver Load
+Group,Group Modification
+Group,Group Enumeration
+Active Directory,Active Directory Credential Request
+File,File Creation
+Cluster,Cluster Metadata
+Volume,Volume Modification
+Windows Registry,Windows Registry Key Modification
+Web Credential,Web Credential Usage
+User Account,User Account Metadata
+Cloud Storage,Cloud Storage Modification
+Volume,Volume Deletion
+Cloud Storage,Cloud Storage Creation
+File,File Access
+Logon Session,Logon Session Creation
+File,File Metadata
+Instance,Instance Creation
+Firewall,Firewall Disable
+Container,Container Creation
+Active Directory,Active Directory Object Creation
+Network Traffic,Network Traffic Flow
+Cloud Storage,Cloud Storage Access
+Instance,Instance Modification
+Pod,Pod Metadata
+Group,Group Metadata
+Active Directory,Active Directory Object Access
+Firmware,Firmware Modification
+Drive,Drive Access
+Service,Service Modification
+Command,Command Execution
+Image,Image Creation
+Container,Container Start
+Firewall,Firewall Enumeration
+Network Traffic,Network Connection Creation
+Web Credential,Web Credential Creation
+Service,Service Metadata
+Service,Service Creation
+Cloud Service,Cloud Service Enumeration
+Instance,Instance Metadata
+Process,Process Metadata
+Cloud Service,Cloud Service Metadata
+Instance,Instance Stop
+Process,Process Access
+Drive,Drive Modification
+User Account,User Account Deletion
+Windows Registry,Windows Registry Key Creation
+Volume,Volume Enumeration
+Snapshot,Snapshot Creation
+Image,Image Metadata
+Image,Image Modification
+Snapshot,Snapshot Metadata
+Script,Script Execution
+Container,Container Metadata
+Image,Image Deletion
+Snapshot,Snapshot Modification
+File,File Content
+WMI,WMI Creation
+User Account,User Account Authentication
+Network Share,Network Share Access
